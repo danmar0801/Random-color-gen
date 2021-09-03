@@ -27,8 +27,8 @@
     color: rgb(42, 45, 54);
     border: 2px solid;
     border-radius: 15px;
-    border-color: rgb(230, 230, 230);
-    background-color: rgb(230, 230, 230);
+    border-color: whitesmoke;
+    background-color: whitesmoke;
 }
 
 .container_2 h2, span{
